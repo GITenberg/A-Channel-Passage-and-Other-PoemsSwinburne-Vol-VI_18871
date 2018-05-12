@@ -1,0 +1,35 @@
+_repo: A-Channel-Passage-and-Other-PoemsSwinburne-Vol-VI_18871
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swinburne, Algernon Charles
+    aliases:
+    - Maitland, A. C. (Algernon Charles)
+    - Maitland, Thomas
+    birthdate: 1837
+    deathdate: 1909
+    gutenberg_agent_id: '832'
+    url: http://www.gutenberg.org/2009/agents/832
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Swinburne
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2006-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+title: 'A Channel Passage and Other Poems
+
+  Taken from The Collected Poetical Works of Algernon Charles
+
+  Swinburne—Vol VI'
+url: http://www.gutenberg.org/ebooks/18871
